@@ -7,3 +7,6 @@ C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\HamsterRiotAPI.
 C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\HamsterRiotAPI.csproj.CopyComplete
 C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.exe
 C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.pdb
+D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\HamsterRiotAPI.csprojAssemblyReference.cache
+D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\HamsterRiotAPI.csproj.CoreCompileInputs.cache
+D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\LoLAPITest.pdb
