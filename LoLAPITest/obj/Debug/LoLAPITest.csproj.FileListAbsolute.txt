@@ -1,0 +1,10 @@
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\bin\Debug\LoLAPITest.exe.config
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\bin\Debug\LoLAPITest.exe
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\bin\Debug\LoLAPITest.pdb
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.csprojAssemblyReference.cache
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.csproj.CoreCompileInputs.cache
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.csproj.CopyComplete
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.exe
+C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.pdb
