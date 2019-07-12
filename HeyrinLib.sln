@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamsterRiotAPI", "LoLAPITes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatchYourBoyFriend", "WatchYourBoyFriend\WatchYourBoyFriend.csproj", "{464C12DE-79F1-49B3-8E5E-1E3672A71241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464C12DE-79F1-49B3-8E5E-1E3672A71241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464C12DE-79F1-49B3-8E5E-1E3672A71241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464C12DE-79F1-49B3-8E5E-1E3672A71241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464C12DE-79F1-49B3-8E5E-1E3672A71241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,14 +10,15 @@ namespace WatchYourBoyFriend
 {
     class Program
     {
-        static void ReadAPIKey()
+        static string ReadAPIKey()
         {
-            var p = File.ReadAllLines("apikey/apikey.txt");
-
+            var api = File.ReadAllText("apikey/apikey.txt");
+            Config.APIKey = api;
+            return api;
         }
         static void Main(string[] args)
         {
-            
+            ReadAPIKey();
         }
     }
 }

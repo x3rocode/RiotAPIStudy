@@ -1,0 +1,14 @@
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\WatchYourBoyFriend.exe.config
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\WatchYourBoyFriend.exe
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\WatchYourBoyFriend.pdb
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\LoLAPITest.dll
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\LoLAPITest.pdb
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\LoLAPITest.dll.config
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\LoLAPITest.exe.config
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\obj\Debug\WatchYourBoyFriend.csprojAssemblyReference.cache
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\obj\Debug\WatchYourBoyFriend.csproj.CoreCompileInputs.cache
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\obj\Debug\WatchYourBoyFriend.csproj.CopyComplete
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\obj\Debug\WatchYourBoyFriend.exe
+D:\GitHub\RiotAPIStudy\WatchYourBoyFriend\obj\Debug\WatchYourBoyFriend.pdb
