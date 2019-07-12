@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamsterRiotAPI", "LoLAPITest\HamsterRiotAPI.csproj", "{3D650280-E4A6-490A-8E75-80E6BFCB6E31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3D650280-E4A6-490A-8E75-80E6BFCB6E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D650280-E4A6-490A-8E75-80E6BFCB6E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D650280-E4A6-490A-8E75-80E6BFCB6E31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BDDF2F9-9751-4B3A-B8AE-4A198116D203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

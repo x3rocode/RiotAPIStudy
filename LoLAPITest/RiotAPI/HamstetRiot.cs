@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using HamsterRiotAPI.Structure;
+using HamsterRiotAPI.HttpUtils;
+
 namespace HamsterRiotAPI
 {
     /// <summary>

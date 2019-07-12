@@ -1,0 +1,14 @@
+D:\GitHub\RiotAPIStudy\Example\obj\Debug\Example.csprojAssemblyReference.cache
+D:\GitHub\RiotAPIStudy\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\Example.exe.config
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\Example.exe
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\Example.pdb
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\LoLAPITest.dll
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\LoLAPITest.pdb
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\LoLAPITest.dll.config
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\LoLAPITest.exe.config
+D:\GitHub\RiotAPIStudy\Example\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\RiotAPIStudy\Example\obj\Debug\Example.csproj.CopyComplete
+D:\GitHub\RiotAPIStudy\Example\obj\Debug\Example.exe
+D:\GitHub\RiotAPIStudy\Example\obj\Debug\Example.pdb

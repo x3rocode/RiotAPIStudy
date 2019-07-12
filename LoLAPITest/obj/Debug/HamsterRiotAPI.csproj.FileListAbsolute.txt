@@ -10,3 +10,10 @@ C:\Users\SmokyOnion\source\repos\LoLAPITest\LoLAPITest\obj\Debug\LoLAPITest.pdb
 D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\HamsterRiotAPI.csprojAssemblyReference.cache
 D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\HamsterRiotAPI.csproj.CoreCompileInputs.cache
 D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\LoLAPITest.pdb
+D:\GitHub\RiotAPIStudy\LoLAPITest\bin\Debug\LoLAPITest.dll.config
+D:\GitHub\RiotAPIStudy\LoLAPITest\bin\Debug\LoLAPITest.dll
+D:\GitHub\RiotAPIStudy\LoLAPITest\bin\Debug\LoLAPITest.pdb
+D:\GitHub\RiotAPIStudy\LoLAPITest\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\RiotAPIStudy\LoLAPITest\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\HamsterRiotAPI.csproj.CopyComplete
+D:\GitHub\RiotAPIStudy\LoLAPITest\obj\Debug\LoLAPITest.dll
