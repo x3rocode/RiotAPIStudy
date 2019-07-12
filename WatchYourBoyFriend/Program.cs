@@ -12,6 +12,14 @@ namespace WatchYourBoyFriend
     {
         None, GamePlaying, GameEnd, Offline
     }
+
+    public class User
+    {
+        public Status current;
+        public string userNickName;
+        public HamsterRiotAPI.Structure.Summoner summoner;
+    }
+
     class Program
     {
         static string ReadAPIKey()
