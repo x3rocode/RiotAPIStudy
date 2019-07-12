@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace WatchYourBoyFriend
 {
+    public enum Status
+    {
+        None, GamePlaying, GameEnd, Offline
+    }
     class Program
     {
         static string ReadAPIKey()
