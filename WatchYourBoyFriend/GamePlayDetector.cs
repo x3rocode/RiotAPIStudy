@@ -25,16 +25,18 @@ namespace WatchYourBoyFriend
 
         public void UpdateDetector()
         {
-            //foreach(Type t in List))
-            //registerList에 있는걸 리스트를 순회할꺼야..
+          
             foreach(User v in registeredList)
             {
+            
                 if (v.current == Status.GamePlaying && gamePlayingUserMap.ContainsKey(v.userNickName) == false)
                 {
                     gamePlayingUserMap.Add(v.userNickName, v);
                     Console.WriteLine(v.userNickName + " 게임중 ~ ");
                 }
             }
+
+            foreach(User v in gamePlayingUserMap.)
         }
     }
 }
